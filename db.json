@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "High-quality noise-cancelling wireless headphones with 30 hours of battery life.",
+      "price": 3999,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Stand",
+      "description": "Adjustable smartphone holder perfect for desk use and video calls.",
+      "price": 499,
+      "category": "Accessories"
+    },
+    {
+      "id": 3,
+      "name": "Stainless Steel Water Bottle",
+      "description": "Leak-proof and insulated bottle keeps your drink cold for 24 hours.",
+      "price": 799,
+      "category": "Home & Kitchen"
+    },
+    {
+      "id": 4,
+      "name": "Gaming Mouse",
+      "description": "Ergonomic gaming mouse with customizable DPI and RGB lighting.",
+      "price": 1199,
+      "category": "Electronics"
+    },
+    {
+      "id": 5,
+      "name": "Notebook Set",
+      "description": "Pack of 3 soft-cover notebooks with dotted, ruled, and plain pages.",
+      "price": 299,
+      "category": "Stationery"
+    }
+  ]
+}
