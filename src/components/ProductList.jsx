@@ -13,7 +13,7 @@ const ProductList = () => {
       })
       .catch((err) => {
         console.error("Error fetching products:", err);
-      });
+      }):
   }, []);
 
   return (
